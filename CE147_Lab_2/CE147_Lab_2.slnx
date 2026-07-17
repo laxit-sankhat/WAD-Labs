@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Assignment1_Collections/Assignment1_Collections.csproj" />
+  <Project Path="Assignment2_StudentManagement/Assignment2_StudentManagement.csproj" />
+  <Project Path="Assignment3_WordFrequency/Assignment3_WordFrequency.csproj" />
+  <Project Path="Assignment4_BrowserHistory/Assignment4_BrowserHistory.csproj" />
+</Solution>
